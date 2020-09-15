@@ -29,3 +29,9 @@ Ever since adolescence, I wanted to do programming.  I decided to take a course 
 * [HtmlAcademy](https://htmlacademy.ru/profile/id864863)
 * [Codewars](https://www.codewars.com/users/Niurakha)
 * [freeCodeCamp](https://www.freecodecamp.org/niurakha)
+
+## Education 
+* [HtmlAcademy](https://htmlacademy.ru/profile/id864863)
+
+## English 
+##### A2 (Pre-intermediate)
