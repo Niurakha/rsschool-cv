@@ -1,2 +1,2 @@
-https://Niurakha.github.io/rsschool-cv/cv
+https://Niurakha.github.io/rsschool-cv/cv <br>
 https://Niurakha.github.io/rsschool-cv/
